@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Maksim Shvetsov, IT student in Irkutsk State University
+I'm **Maksim Shvetsov**, IT student in Irkutsk State University
 
 Currently studying:
 
